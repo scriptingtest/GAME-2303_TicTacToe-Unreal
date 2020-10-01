@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TTT-9049.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\TTTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\MyAI.cpp.obj"
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\TTT.cpp.obj"
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\MyAI.gen.cpp.obj"
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\TTT.init.gen.cpp.obj"
+"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\Default.rc2.res"
+/OUT:"D:\Projects\Unreal Projects\TTT\Source\TicTacToe\TTT\Intermediate\Build\Win64\UE4Editor\Development\TTT\UE4Editor-TTT-9049.lib"
+/INCLUDE:IMPLEMENT_MODULE_TTT
