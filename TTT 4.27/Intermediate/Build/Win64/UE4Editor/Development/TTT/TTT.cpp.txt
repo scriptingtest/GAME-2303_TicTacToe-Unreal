@@ -1,2 +1,0 @@
-F:\repository\GAME-2303_TicTacToe\TTT 4.27\Intermediate\Build\Win64\UE4Editor\Development\TTT\Definitions.TTT.h
-F:\repository\GAME-2303_TicTacToe\TTT 4.27\Source\TTT\TTT.h

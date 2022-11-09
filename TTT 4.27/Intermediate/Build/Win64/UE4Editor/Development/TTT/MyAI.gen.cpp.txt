@@ -1,5 +1,0 @@
-F:\repository\GAME-2303_TicTacToe\TTT 4.27\Intermediate\Build\Win64\UE4Editor\Development\TTT\Definitions.TTT.h
-F:\Programs\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-F:\Programs\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-F:\repository\GAME-2303_TicTacToe\TTT 4.27\Source\TTT/MyAI.h
-F:\repository\GAME-2303_TicTacToe\TTT 4.27\Intermediate\Build\Win64\UE4Editor\Inc\TTT\MyAI.generated.h
