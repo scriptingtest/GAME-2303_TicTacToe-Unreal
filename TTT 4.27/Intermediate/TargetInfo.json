@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TTT",
+			"Path": "F:\\repository\\GAME-2303_TicTacToe\\TTT 4.27\\Source\\TTT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TTTEditor",
+			"Path": "F:\\repository\\GAME-2303_TicTacToe\\TTT 4.27\\Source\\TTTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
